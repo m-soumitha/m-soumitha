@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>## 👋 Hi, I'm Sri Soumitha<br><br>🎓 B.Tech Computer Science Student at SRM University AP<br><br>💻 Passionate about Software Development, AI and Data Science<br><br>🌱 Currently strengthening my Data Structures & Algorithms skills through Striver's A2Z Sheet.<br><br>🔬 Research Intern working on Disease Prediction using Frequent Pattern Mining and Machine Learning.<br><br>🚀 Exploring Artificial Intelligence, Backend Development and Problem Solving.<br><br>🎯 Goal: To become a Software Engineer at a top tech company while building impactful AI-powered applications.<br><br>✨ Always learning. Always building.
+<br>👋 Hi, I'm Sri Soumitha<br><br>🎓 B.Tech Computer Science Student at SRM University AP<br><br>💻 Passionate about Software Development, AI and Data Science<br><br>🌱 Currently strengthening my Data Structures & Algorithms skills through Striver's A2Z Sheet.<br><br>🔬 Research Intern working on Disease Prediction using Frequent Pattern Mining and Machine Learning.<br><br>🚀 Exploring Artificial Intelligence, Backend Development and Problem Solving.<br><br>🎯 Goal: To become a Software Engineer at a top tech company while building impactful AI-powered applications.<br><br>✨ Always learning. Always building.
 
 
 ## 🌐 Socials:
